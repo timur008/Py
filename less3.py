@@ -113,7 +113,7 @@ class Human:
         print(f"Strength – {self.car.strength}")
         pet_indexes = "Pet indexes"
         print(f"{pet_indexes:^50}", "\n")
-        print(f"My pet is {self.pet}")
+        print(f"My pet is {self.pet.pet_type}")
 
     def is_alive(self):
         if self.gladness < 0:
@@ -135,6 +135,9 @@ class Human:
         if self.car is None:
             self.get_car()
             print(f"I bought a car{self.car.brand}")
+        if self.pet is None:
+            self.get_pet()
+            print(f"I bought a pet{self.pet.pet_type}")
         if self.job is None:
             self.get_job()
             print(f"I don't have a job, I'm going to get a job "
@@ -222,7 +225,7 @@ class Job:
 
 class Pet:
     def __init__(self, types_of_pets):
-        self.pet=random.choice(list(types_of_pets))
+        self.pet_type=random.choice(list(types_of_pets))
 
 nick = Human(name="Nick")
 for day in range(1,1000):
