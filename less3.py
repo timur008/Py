@@ -1,6 +1,6 @@
 import random
 class Human:
-    def __init__(self, name="Human", job=None, home=None, car=None):
+    def __init__(self, name="Human", job=None, home=None, car=None, pet=None):
         self.name = name
         self.money = 100
         self.gladness = 50
@@ -17,7 +17,7 @@ class Human:
         self.car = Auto(brands_of_car)
 
     def get_pet(self):
-        self.pet = Pet(brands_of_car)
+        self.pet = Pet(types_of_pets)
 
 
     def get_job(self):
@@ -74,6 +74,10 @@ class Human:
             self.gladness += 10
             self.satiety += 2
             self.money -= 15
+        elif manage == "pet food":
+            print("Bought pet food")
+            self.gladness += 5
+            self.money -= 60
 
     def chill(self):
         self.gladness += 10
@@ -86,6 +90,10 @@ class Human:
     def to_repair(self):
         self.car.strength += 100
         self.money -= 50
+
+    def play_with_pet(self):
+        self.gladness += 8
+        self.home.mess += 3
 
     def days_indexes(self, day):
         day = f" Today the {day} of {self.name}'s life "
@@ -103,6 +111,9 @@ class Human:
         print(f"{car_indexes:^50}", "\n")
         print(f"Fuel – {self.car.fuel}")
         print(f"Strength – {self.car.strength}")
+        pet_indexes = "Pet indexes"
+        print(f"{pet_indexes:^50}", "\n")
+        print(f"My pet is {self.pet}")
 
     def is_alive(self):
         if self.gladness < 0:
@@ -165,6 +176,9 @@ brands_of_car = {
     "Lada":{"fuel":50, "strength":40, "consumption": 10},
     "Volvo":{"fuel":70, "strength":150, "consumption": 8},
     "Ferrari":{"fuel":80, "strength":120, "consumption": 14} }
+types_of_pets = {
+    "Dog", "Cat", "Hamster", "Turtle"
+}
 
 
 class Auto:
@@ -205,6 +219,10 @@ class Job:
         self.job=random.choice(list(job_list))
         self.salary=job_list[self.job]["salary"]
         self.gladness_less=job_list[self.job]["gladness_less"]
+
+class Pet:
+    def __init__(self, types_of_pets):
+        self.pet=random.choice(list(types_of_pets))
 
 nick = Human(name="Nick")
 for day in range(1,1000):
