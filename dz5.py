@@ -1,4 +1,2 @@
-import colorama
-intro_list = []
-for method in dir(intro_list):
+for method in dir():
     print(method)
