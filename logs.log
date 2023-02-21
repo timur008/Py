@@ -1,10 +1,1008 @@
-We have next logging message: 2023-02-21 16:30:42,596:DEBUG-debug
-We have next logging message: 2023-02-21 16:30:42,597:INFO-info
-We have next logging message: 2023-02-21 16:30:42,597:WARNING-warning
-We have next logging message: 2023-02-21 16:30:42,597:ERROR-error
-We have next logging message: 2023-02-21 16:30:42,597:CRITICAL-critical
-We have next logging message: 2023-02-21 16:30:42,597:INFO-Character got a home
-We have next logging message: 2023-02-21 16:30:42,597:INFO-Character bought BMW
-We have next logging message: 2023-02-21 16:30:42,597:INFO-Character bought Cat
-We have next logging message: 2023-02-21 16:30:42,597:INFO-Character now working as C++ developer with salary 45
-We have next logging message: 2023-02-21 16:30:42,605:INFO-Character died in case: Depression...
+We have next logging message: 2023-02-21 16:57:55,343:DEBUG-debug
+We have next logging message: 2023-02-21 16:57:55,343:INFO-info
+We have next logging message: 2023-02-21 16:57:55,344:WARNING-warning
+We have next logging message: 2023-02-21 16:57:55,344:ERROR-error
+We have next logging message: 2023-02-21 16:57:55,344:CRITICAL-critical
+We have next logging message: 2023-02-21 16:57:55,344:INFO-Character got a home
+We have next logging message: 2023-02-21 16:57:55,344:INFO-Character bought Volvo
+We have next logging message: 2023-02-21 16:57:55,344:INFO-Character bought Dog
+We have next logging message: 2023-02-21 16:57:55,344:INFO-Character now working as Rust developer with salary 70
+We have next logging message: 2023-02-21 16:57:55,344:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,345:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,345:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,345:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,345:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,345:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,345:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,346:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,346:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,347:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,347:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,347:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,347:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,347:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,348:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,348:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,348:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,348:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,348:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,349:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,349:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,349:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,349:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,349:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,349:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,350:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,350:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,350:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,350:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,350:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,350:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,351:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,351:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,351:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,351:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,351:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,352:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,352:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,352:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,352:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,353:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,353:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,353:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,354:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,354:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,354:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,354:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,355:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,355:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,355:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,355:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,355:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,356:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,356:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,356:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,356:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,357:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,357:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,357:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,358:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,358:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,358:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,358:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,359:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,359:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,359:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,359:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,360:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,360:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,360:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,360:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,361:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,361:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,361:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,361:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,361:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,361:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,362:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,362:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,362:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,362:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,362:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,362:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,363:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,363:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,363:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,363:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,363:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,364:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,364:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,364:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,364:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,364:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,364:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,365:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,365:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,365:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,365:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,366:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,366:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,366:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,366:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,366:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,367:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,367:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,367:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,367:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,367:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,368:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,368:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,368:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,368:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,368:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,368:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,369:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,369:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,369:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,370:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,370:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,370:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,370:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,370:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,370:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,371:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,371:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,371:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,371:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,371:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,372:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,372:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,372:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,372:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,372:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,372:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,373:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,373:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,373:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,373:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,373:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,373:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,374:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,374:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,374:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,374:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,374:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,375:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,375:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,375:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,375:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,375:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,376:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,376:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,376:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,376:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,376:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,376:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,377:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,377:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,377:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,377:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,377:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,378:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,378:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,378:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,378:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,378:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,378:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,379:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,379:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,379:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,379:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,380:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,380:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,380:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,380:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,381:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,381:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,381:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,381:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,381:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,381:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,382:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,382:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,382:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,382:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,383:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,383:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,383:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,383:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,383:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,384:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,384:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,384:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,384:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,384:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,385:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,385:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,385:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,385:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,385:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,386:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,386:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,386:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,386:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,387:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,387:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,387:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,387:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,387:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,387:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,388:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,388:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,388:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,388:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,389:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,389:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,389:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,389:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,389:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,390:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,390:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,390:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,390:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,390:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,391:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,391:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,391:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,391:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,391:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,391:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,392:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,392:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,392:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,392:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,392:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,393:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,393:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,393:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,393:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,393:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,393:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,394:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,394:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,394:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,394:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,394:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,395:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,395:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,395:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,395:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,395:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,395:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,396:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,396:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,396:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,396:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,397:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,397:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,397:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,397:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,397:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,398:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,398:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,398:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,398:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,398:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,399:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,399:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,399:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,399:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,399:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,399:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,400:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,400:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,400:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,400:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,400:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,401:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,401:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,401:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,402:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,402:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,402:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,402:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,403:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,403:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,403:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,403:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,403:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,403:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,404:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,404:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,404:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,404:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,405:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,405:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,405:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,406:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,406:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,406:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,406:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,407:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,407:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,407:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,407:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,408:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,408:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,408:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,408:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,408:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,409:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,409:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,409:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,409:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,409:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,410:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,410:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,410:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,410:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,411:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,411:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,411:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,411:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,411:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,411:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,412:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,412:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,412:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,412:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,412:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,413:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,413:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,413:INFO-Character repaired car
+We have next logging message: 2023-02-21 16:57:55,413:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,413:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,413:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,414:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,414:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,414:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,414:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,414:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,414:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,415:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,415:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,415:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,415:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,415:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,415:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,416:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,416:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,416:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,416:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,416:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,417:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,417:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,417:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,417:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,417:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,417:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,418:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,418:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,418:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,418:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,418:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,419:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,419:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,419:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,419:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,420:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,420:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,420:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,420:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,421:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,421:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,421:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,421:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,421:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,422:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,422:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,422:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,422:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,422:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,423:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,423:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,423:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,424:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,424:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,424:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,424:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,425:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,425:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,425:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,425:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,425:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,425:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,426:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,426:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,426:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,426:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,426:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,427:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,427:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,427:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,427:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,427:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,427:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,428:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,428:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,428:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,428:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,429:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,429:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,429:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,429:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,429:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,429:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,430:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,430:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,430:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,430:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,430:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,431:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,432:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,432:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,432:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,432:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,432:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,433:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,433:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,433:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,434:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,434:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,434:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,434:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,435:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,435:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,436:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,436:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,436:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,437:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,437:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,437:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,438:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,438:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,438:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,439:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,439:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,439:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,440:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,440:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,441:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,441:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,441:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,442:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,442:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,442:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,442:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,443:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,443:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,443:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,443:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,444:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,444:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,445:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,445:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,445:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,446:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,446:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,446:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,447:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,447:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,447:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,448:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,448:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,448:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,448:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,448:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,449:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,449:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,449:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,449:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,449:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,449:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,450:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,450:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,450:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,450:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,450:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,450:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,451:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,451:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,451:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,451:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,451:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,452:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,452:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,452:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,452:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,452:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,453:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,453:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,453:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,454:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,454:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,454:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,454:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,454:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,454:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,455:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,455:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,455:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,455:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,455:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,456:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,456:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,456:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,456:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,456:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,456:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,457:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,457:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,457:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,457:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,457:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,457:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,458:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,458:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,458:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,458:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,458:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,459:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,459:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,459:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,459:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,459:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,459:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,460:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,460:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,460:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,460:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,460:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,461:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,461:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,461:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,461:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,461:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,461:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,462:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,462:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,462:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,462:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,462:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,463:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,463:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,463:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,463:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,463:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,464:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,464:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,464:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,464:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,464:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,464:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,465:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,465:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,465:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,465:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,465:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,466:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,466:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,466:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,466:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,466:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,466:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,467:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,467:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,467:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,467:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,467:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,468:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,468:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,468:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,468:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,468:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,469:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,469:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,469:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,469:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,469:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,470:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,470:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,470:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,470:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,470:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,471:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,471:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,471:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,471:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,471:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,471:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,472:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,472:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,472:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,472:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,473:INFO-Character repaired car
+We have next logging message: 2023-02-21 16:57:55,473:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,473:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,473:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,473:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,473:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,474:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,474:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,474:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,474:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,474:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,475:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,475:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,475:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,475:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,475:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,476:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,476:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,476:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,476:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,476:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,476:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,477:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,477:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,477:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,477:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,477:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,478:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,478:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,478:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,478:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,478:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,479:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,479:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,479:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,479:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,479:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,480:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,480:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,480:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,480:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,480:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,481:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,481:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,481:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,481:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,481:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,481:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,482:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,482:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,482:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,482:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,483:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,483:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,483:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,483:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,483:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,483:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,484:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,484:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,484:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,484:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,484:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,485:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,485:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,485:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,485:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,485:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,486:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,486:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,486:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,486:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,486:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,486:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,487:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,487:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,487:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,487:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,487:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,487:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,488:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,488:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,488:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,488:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,488:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,489:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,489:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,489:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,490:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,490:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,490:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,490:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,490:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,490:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,491:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,491:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,491:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,491:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,491:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,492:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,492:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,492:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,492:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,492:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,493:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,493:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,493:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,493:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,493:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,493:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,494:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,494:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,494:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,494:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,494:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,495:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,495:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,495:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,495:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,495:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,496:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,496:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,496:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,496:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,496:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,496:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,497:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,497:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,497:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,497:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,497:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,498:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,498:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,498:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,498:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,498:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,499:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,499:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,499:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,499:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,499:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,500:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,500:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,500:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,500:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,500:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,500:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,501:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,501:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,501:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,501:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,501:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,502:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,502:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,502:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,502:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,502:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,502:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,503:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,503:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,503:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,503:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,503:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,504:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,504:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,504:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,504:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,504:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,504:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,505:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,505:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,505:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,505:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,505:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,506:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,506:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,506:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,506:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,506:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,507:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,507:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,507:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,507:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,507:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,507:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,508:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,508:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,508:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,508:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,508:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,509:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,509:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,509:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,509:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,509:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,510:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,510:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,510:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,510:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,510:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,510:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,511:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,511:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,511:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,511:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,511:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,512:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,512:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,512:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,512:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,512:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,512:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,513:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,513:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,513:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,513:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,513:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,514:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,515:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,515:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,515:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,515:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,515:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,516:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,516:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,516:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,516:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,516:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,517:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,517:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,517:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,517:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,517:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,517:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,518:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,518:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,518:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,518:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,518:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,518:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,519:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,519:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,519:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,519:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,519:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,520:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,521:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,521:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,521:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,521:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,521:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,522:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,522:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,522:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,522:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,522:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,523:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,523:INFO-Character repaired car
+We have next logging message: 2023-02-21 16:57:55,523:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,523:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,523:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,523:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,524:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,524:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,524:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,524:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,524:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,525:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,525:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,525:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,525:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,525:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,525:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,526:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,526:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,526:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,526:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,526:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,527:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,527:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,527:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,527:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,527:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,527:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,528:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,528:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,528:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,528:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,528:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,529:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,529:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,529:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,529:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,529:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,530:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,530:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,530:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,530:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,530:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,530:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,531:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,531:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,531:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,531:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,531:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,531:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,532:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,532:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,532:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,532:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,532:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,533:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,533:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,533:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,533:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,533:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,533:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,534:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,534:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,534:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,534:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,534:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,534:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,535:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,535:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,535:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,535:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,535:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,536:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,536:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,536:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,536:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,536:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,537:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,537:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,537:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,537:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,537:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,538:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,538:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,538:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,538:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,538:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,538:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,539:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,539:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,539:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,539:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,539:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,539:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,540:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,540:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,540:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,540:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,540:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,540:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,541:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,541:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,541:INFO-Character cleaned the house
+We have next logging message: 2023-02-21 16:57:55,541:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,541:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,542:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,542:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,542:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,542:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,542:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,542:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,543:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,543:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,543:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,543:INFO-Character chilled
+We have next logging message: 2023-02-21 16:57:55,543:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,544:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,544:INFO-Character bought delicacies
+We have next logging message: 2023-02-21 16:57:55,544:INFO-Character got to work
+We have next logging message: 2023-02-21 16:57:55,544:INFO-Character got to eat
+We have next logging message: 2023-02-21 16:57:55,544:INFO-Character bought delicacies
