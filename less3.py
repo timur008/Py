@@ -1,4 +1,13 @@
 import random
+import logging
+logging.basicConfig(level=logging.DEBUG,filename="logs.log",filemode="w",format="We have next logging message: "
+                                                                                "%(asctime)s:%(levelname)s-%(message)s")
+logging.debug("debug")
+logging.info("info")
+logging.warning("warning")
+logging.error("error")
+logging.critical("critical")
+
 class Human:
     def __init__(self, name="Human", job=None, home=None, car=None, pet=None):
         self.name = name
@@ -50,7 +59,7 @@ class Human:
                 return
         self.money += self.job.salary
         self.gladness -= self.job.gladness_less
-        self.satiety -= 4
+        self.satiety -= 5
 
     def shopping(self, manage):
         if self.car.drive():
@@ -67,33 +76,37 @@ class Human:
             self.car.fuel += 100
         elif manage == "food":
             print("Bought food")
-            self.money -= 50
+            self.money -= 80
             self.home.food += 50
         elif manage == "delicacies":
             print("Hooray! Delicious!")
             self.gladness += 10
             self.satiety += 2
-            self.money -= 15
+            self.money -= 30
         elif manage == "pet food":
             print("Bought pet food")
             self.gladness += 5
-            self.money -= 60
+            self.money -= 70
 
     def chill(self):
         self.gladness += 10
         self.home.mess += 5
+        self.satiety -= 2
 
     def clean_home(self):
         self.gladness -= 5
         self.home.mess = 0
+        self.satiety -= 2
 
     def to_repair(self):
         self.car.strength += 100
-        self.money -= 50
+        self.money -= 150
+        self.satiety -= 3
 
     def play_with_pet(self):
         self.gladness += 8
         self.home.mess += 3
+        self.satiety -= 1
 
     def days_indexes(self, day):
         day = f" Today the {day} of {self.name}'s life "
@@ -117,13 +130,16 @@ class Human:
 
     def is_alive(self):
         if self.gladness < 0:
-            print("Depression…")
+            print("Depression...")
+            logging.info(f"Character died in case: Depression...")
             return False
         if self.satiety < 0:
-            print("Dead…")
+            print("Hunger...")
+            logging.info(f"Character died in case: Hunger...")
             return False
         if self.money < -500:
-            print("Bankrupt…")
+            print("Bankrupt...")
+            logging.info(f"Character died in case: Bankrupt...")
             return False
 
     def live(self, day):
@@ -132,16 +148,20 @@ class Human:
         if self.home is None:
             print("Settled in the house")
             self.get_home()
+            logging.info(f"Character got a home")
         if self.car is None:
             self.get_car()
             print(f"I bought a car{self.car.brand}")
+            logging.info(f"Character bought {self.car.brand}")
         if self.pet is None:
             self.get_pet()
             print(f"I bought a pet{self.pet.pet_type}")
+            logging.info(f"Character bought {self.pet.pet_type}")
         if self.job is None:
             self.get_job()
             print(f"I don't have a job, I'm going to get a job "
                   f"{self.job.job} with salary {self.job.salary}")
+            logging.info(f"Character now working as {self.job.job} with salary {self.job.salary}")
         self.days_indexes(day)
         dice = random.randint(1, 4)
         if self.satiety < 20:
@@ -173,6 +193,9 @@ class Human:
         elif dice == 4:
             print("Time for treats!")
             self.shopping(manage="delicacies")
+        elif dice == 5:
+            print("Time to play with pet!")
+            self.play_with_pet
 
 brands_of_car = {
     "BMW":{"fuel":100, "strength":100, "consumption": 6},
