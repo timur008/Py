@@ -167,35 +167,45 @@ class Human:
         if self.satiety < 20:
             print("I'll go eat")
             self.eat()
+            logging.info(f"Character got to eat")
         elif self.gladness < 20:
             if self.home.mess > 15:
                 print("I want to chill, but there is so much mess…")
                 print("So I will clean the house")
                 self.clean_home()
+                logging.info(f"Character cleaned the house")
             else:
                 print("Let`s chill!")
                 self.chill()
+                logging.info(f"Character chilled")
         elif self.money < 0:
             print("Start working")
             self.work()
+            logging.info(f"Character got to work")
         elif self.car.strength < 15:
             print("I need to repair my car")
             self.to_repair()
+            logging.info(f"Character repaired car")
         elif dice == 1:
             print("Let`s chill!")
             self.chill()
+            logging.info(f"Character chilled")
         elif dice == 2:
             print("Start working")
             self.work()
+            logging.info(f"Character got to work")
         elif dice == 3:
             print("Cleaning time!")
             self.clean_home()
+            logging.info(f"Character cleaned the house")
         elif dice == 4:
             print("Time for treats!")
             self.shopping(manage="delicacies")
+            logging.info(f"Character bought delicacies")
         elif dice == 5:
             print("Time to play with pet!")
             self.play_with_pet
+            logging.info(f"Character played with pet")
 
 brands_of_car = {
     "BMW":{"fuel":100, "strength":100, "consumption": 6},
@@ -253,4 +263,5 @@ class Pet:
 nick = Human(name="Nick")
 for day in range(1,1000):
     if nick.live(day) == False:
+        logging.info(f"Simulation ended")
         break
