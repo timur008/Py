@@ -27,8 +27,8 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
-      <object connection-id="9ee0cff4-101b-4ded-ac7b-0401e5ab3397" object-ref="schemas/main/tables/first_table" />
       <object connection-id="249ece4c-1cfb-421f-ba0a-0fdf69f84d6b" object-ref="schemas/main/tables/first_table" />
+      <object connection-id="9ee0cff4-101b-4ded-ac7b-0401e5ab3397" object-ref="schemas/main/tables/first_table" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
