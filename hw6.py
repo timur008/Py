@@ -1,16 +1,12 @@
 result = []
-
 def divider(a, b):
     if b == 0:
-        raise ZeroDivisionError
-    if a != type(int):
-        raise TypeError("kek")
+        raise ZeroDivisionError("Unable to division by zero")
+    if a != type(int) or b!= type(int):
+        raise TypeError("Wrong data type")
     return a/b
 
-try:
-    data = {10: 2, 2: 5, "123": 4, 18: 0, []: 15, 8: 4}
-except (TypeError, IndexError, ZeroDivisionError) as error:
-    print(error)
+data = {10: 2, 2: 5, "123": 4, 18: 0, 3: 15, 8: 4}
 for key in data:
     res = divider(key, data[key])
     result.append(res)
